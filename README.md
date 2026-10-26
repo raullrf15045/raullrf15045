@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Programming learner</strong> passionate about creating projects and solving problems<br>
-  Currently focusing on <strong>Python</strong> 🐍 and also exploring C++
+  Currently focusing on <strong>Python</strong> 🐍 and also exploring C++ and Portugol
 </p>
 
 ---
@@ -12,6 +12,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Portugol-6A5ACD?style=for-the-badge&logo=code&logoColor=white" alt="Portugol"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
