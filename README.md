@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Programming learner</strong> passionate about creating projects and solving problems<br>
-  Currently focusing on <strong>Python</strong> 🐍 and also exploring C++ and Portugol
+  Currently focusing on <strong>Python</strong> 🐍 | Also working with <strong>C++</strong> and <strong>Portugol</strong>
 </p>
 
 ---
@@ -22,8 +22,9 @@
 ### 📂 Featured Projects
 
 - 🎲 **[jogo-de-dados](https://github.com/raullrf15045/jogo-de-dados)** — Dice game in the terminal  
-- ⭕ **[tipos-de-jogo-de-galo](https://github.com/raullrf15045/tipos-de-jogo-de-galo)** — Different versions of Tic-Tac-Toe (vs friend and vs computer)  
+- ⭕ **[tipos-de-jogo-de-galo](https://github.com/raullrf15045/tipos-de-jogo-de-galo)** — Different versions of Tic-Tac-Toe  
 - 🧮 **[calculadora](https://github.com/raullrf15045/calculadora)** — Simple calculator  
+- 📚 **[exercicios-portugol](https://github.com/raullrf15045/exercicios-portugol)** — Portugol Studio exercises  
 - 🔄 Loop exercises (`for`, `while`, `do-while`)
 
 ---
@@ -32,7 +33,7 @@
 
 - Master **Python** and build more advanced projects  
 - Improve code structure and quality  
-- Learn new technologies and best practices  
+- Keep practicing with **Portugol** and C++  
 - Create useful and fun projects  
 
 ---
