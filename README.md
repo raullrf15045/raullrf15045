@@ -1,25 +1,29 @@
 ### Olá! 👋 Eu sou o Raul
 
-Estudante / aprendiz de programação, a começar a minha jornada em **C++**.
+Aprendiz de programação apaixonado por criar projetos e resolver problemas.
 
-Aqui partilho os meus primeiros projetos, exercícios e jogos simples enquanto aprendo.
+Atualmente a focar-me em **Python** e a explorar também C++.
+
+Aqui partilho os meus projetos, exercícios e experiências enquanto evoluo como programador.
 
 ### 🛠️ Tecnologias
+- **Python**
 - C++
 - Lógica de programação
-- Jogos simples no terminal
+- Desenvolvimento de jogos e ferramentas simples
 
-### 📂 Projetos principais
+### 📂 Projetos
 - 🎲 [jogo-de-dados](https://github.com/raullrf15045/jogo-de-dados) — Jogo de dados
-- ⭕ [tipos-de-jogo-de-galo](https://github.com/raullrf15045/tipos-de-jogo-de-galo) — Várias versões do jogo do galo (vs amigo e vs computador)
+- ⭕ [tipos-de-jogo-de-galo](https://github.com/raullrf15045/tipos-de-jogo-de-galo) — Várias versões do jogo do galo
 - 🧮 [calculadora](https://github.com/raullrf15045/calculadora)
-- 🔄 Exercícios de `for`, `while` e `do-while`
+- 🔄 Exercícios de ciclos (`for`, `while`, `do-while`)
 
 ### 🚀 Objetivos
-- Melhorar a lógica e a estrutura de código
-- Aprender mais sobre programação orientada a objetos
-- Fazer projetos cada vez mais interessantes
+- Dominar Python e criar projetos mais avançados
+- Melhorar a estrutura e qualidade do código
+- Aprender novas tecnologias e boas práticas
+- Construir projetos úteis e divertidos
 
 ---
 
-⭐ Sente-te à vontade para explorar os repositórios e deixar um star se gostares!
+⭐ Explora os repositórios e deixa um star se gostares do que viste!
