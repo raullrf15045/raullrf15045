@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá! 👋 Eu sou o Raul
 
-<!--
-**raullrf15045/raullrf15045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante / aprendiz de programação, a começar a minha jornada em **C++**.
 
-Here are some ideas to get you started:
+Aqui partilho os meus primeiros projetos, exercícios e jogos simples enquanto aprendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- C++
+- Lógica de programação
+- Jogos simples no terminal
+
+### 📂 Projetos principais
+- 🎲 [jogo-de-dados](https://github.com/raullrf15045/jogo-de-dados) — Jogo de dados
+- ⭕ [tipos-de-jogo-de-galo](https://github.com/raullrf15045/tipos-de-jogo-de-galo) — Várias versões do jogo do galo (vs amigo e vs computador)
+- 🧮 [calculadora](https://github.com/raullrf15045/calculadora)
+- 🔄 Exercícios de `for`, `while` e `do-while`
+
+### 🚀 Objetivos
+- Melhorar a lógica e a estrutura de código
+- Aprender mais sobre programação orientada a objetos
+- Fazer projetos cada vez mais interessantes
+
+---
+
+⭐ Sente-te à vontade para explorar os repositórios e deixar um star se gostares!
