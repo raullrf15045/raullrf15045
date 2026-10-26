@@ -1,13 +1,13 @@
-<h1 align="center">Olá! Eu sou o Raul 👋</h1>
+<h1 align="center">Hi! I'm Raul 👋</h1>
 
 <p align="center">
-  <strong>Aprendiz de programação</strong> apaixonado por criar projetos e resolver problemas<br>
-  Atualmente a focar-me em <strong>Python</strong> 🐍 e a explorar também C++
+  <strong>Programming learner</strong> passionate about creating projects and solving problems<br>
+  Currently focusing on <strong>Python</strong> 🐍 and also exploring C++
 </p>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -18,21 +18,21 @@
 
 ---
 
-### 📂 Projetos em destaque
+### 📂 Featured Projects
 
-- 🎲 **[jogo-de-dados](https://github.com/raullrf15045/jogo-de-dados)** — Jogo de dados no terminal  
-- ⭕ **[tipos-de-jogo-de-galo](https://github.com/raullrf15045/tipos-de-jogo-de-galo)** — Várias versões do jogo do galo (vs amigo e vs computador)  
-- 🧮 **[calculadora](https://github.com/raullrf15045/calculadora)** — Calculadora simples  
-- 🔄 Exercícios de ciclos (`for`, `while`, `do-while`)
+- 🎲 **[jogo-de-dados](https://github.com/raullrf15045/jogo-de-dados)** — Dice game in the terminal  
+- ⭕ **[tipos-de-jogo-de-galo](https://github.com/raullrf15045/tipos-de-jogo-de-galo)** — Different versions of Tic-Tac-Toe (vs friend and vs computer)  
+- 🧮 **[calculadora](https://github.com/raullrf15045/calculadora)** — Simple calculator  
+- 🔄 Loop exercises (`for`, `while`, `do-while`)
 
 ---
 
-### 🚀 Objetivos
+### 🚀 Goals
 
-- Dominar **Python** e criar projetos mais avançados  
-- Melhorar a estrutura e qualidade do código  
-- Aprender novas tecnologias e boas práticas  
-- Construir projetos úteis e divertidos  
+- Master **Python** and build more advanced projects  
+- Improve code structure and quality  
+- Learn new technologies and best practices  
+- Create useful and fun projects  
 
 ---
 
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  ⭐ Explora os repositórios e deixa um <strong>star</strong> se gostares do que viste!
+  ⭐ Explore the repositories and leave a <strong>star</strong> if you like what you see!
 </p>
